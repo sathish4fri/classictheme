@@ -8,5 +8,5 @@ Make sure the folder is "classictheme".
 Make sure there is start.php in mod/classictheme/
 Enable it.
 
-Run upgrade.php and flush cache.
-put plugin at the bottom of your plugins list or just after eg: footer editor
+Run upgrade.php and flush caches.
+Put plugin at the bottom of your plugins list or just after eg: footer editor
