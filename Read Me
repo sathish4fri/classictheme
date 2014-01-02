@@ -1,12 +1,22 @@
 Release Notes:
-Installation
+Installation of classictheme by Sathish Kumar
 
 Plugin was zipped with http://www.7-zip.org/
 
 Download Plugin
-Make sure the folder is "classictheme".
-Make sure there is start.php in mod/classictheme/
-Enable it.
+1.Make sure the folder is "classictheme".
+2.Make sure there is start.php in mod/classictheme/
+3.Enable it.
 
-Run upgrade.php and flush cache.
-put plugin at the bottom of your plugins list or just after eg: footer editor
+4.Run upgrade.php and flush cache.
+
+5.put plugin at the bottom of your plugins list or just after eg: footer editor
+
+
+
+
+
+
+	
+This FREE Theme was brought to you by ( sathish kumar ) 
+& Contributor ( UK )
