@@ -4,8 +4,10 @@ Installation of classictheme by Sathish Kumar
 Plugin was zipped with http://www.7-zip.org/
 
 Download Plugin
-1.Make sure the folder is "classictheme".
+1.Make sure the folder is "classictheme"
+
 2.Make sure there is start.php in mod/classictheme/
+
 3.Enable it.
 
 4.Run upgrade.php and flush cache.
@@ -16,7 +18,9 @@ Download Plugin
 
 
 
+A Free theme for Elgg users~
+
 
 	
-This FREE Theme was brought to you by ( sathish kumar ) 
+The Classictheme  was brought to you by ( sathish kumar ) 
 & Contributor ( UK )
