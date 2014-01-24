@@ -12,7 +12,7 @@ Download Plugin
 
 4.Run upgrade.php and flush cache.
 
-5.put plugin at the bottom of your plugins list or just after eg: footer editor
+5.Put plugin at the bottom of your plugins list.
 
 
 
