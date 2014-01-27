@@ -70,7 +70,7 @@
 /***** PAGE HEADER ******/
 .elgg-page-header {
 	position: relative;
-	background: #05d url(<?php echo elgg_get_site_url(); ?>mod/classic-theme/graphics/header.jpg) repeat-y top left;
+	background: #333 url(<?php echo elgg_get_site_url(); ?>mod/classic-theme/graphics/header.jpg) repeat-y top left;
 }
 .elgg-page-header > .elgg-inner {
 	position: relative;
